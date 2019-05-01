@@ -8,14 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-annotions" />
         <module name="spring-boot-kafka" />
+        <module name="spring-boot-mysql" />
         <module name="spring-boot-rabbitmq" />
         <module name="spring-boot-redis" />
+        <module name="spring-boot-rocketmq" />
+        <module name="spring-cloud-eureka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-druid (1)" target="1.8" />
       <module name="spring-boot-druid (2)" target="1.8" />
-      <module name="spring-boot-redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
