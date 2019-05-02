@@ -18,6 +18,10 @@
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9001/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-base/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-annotions" />
+        <module name="spring-boot-base" />
         <module name="spring-boot-kafka-consumer" />
         <module name="spring-boot-kafka-producer" />
         <module name="spring-boot-mybatis" />
@@ -18,6 +19,8 @@
         <module name="spring-cloud-eureka-server" />
         <module name="spring-cloud-eureka-server-9001" />
         <module name="spring-cloud-eureka-server-9002" />
+        <module name="spring-cloud-ribbon-consumer-8088" />
+        <module name="spring-cloud-ribbon-consumer-8089" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
