@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

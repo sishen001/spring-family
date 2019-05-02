@@ -14,7 +14,10 @@
         <module name="spring-boot-redis" />
         <module name="spring-boot-rocketmq" />
         <module name="spring-cloud-eureka-consumer" />
+        <module name="spring-cloud-eureka-consumer-order" />
         <module name="spring-cloud-eureka-server" />
+        <module name="spring-cloud-eureka-server-9001" />
+        <module name="spring-cloud-eureka-server-9002" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
