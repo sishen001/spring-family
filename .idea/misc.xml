@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

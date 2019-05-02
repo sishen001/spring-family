@@ -13,7 +13,8 @@
         <module name="spring-boot-rabbitmq" />
         <module name="spring-boot-redis" />
         <module name="spring-boot-rocketmq" />
-        <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-eureka-consumer" />
+        <module name="spring-cloud-eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
