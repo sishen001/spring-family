@@ -12,9 +12,11 @@ public class RedisController {
     @Autowired
     private RedisTemplate redisTemplate;
 
+
+
     @RequestMapping("/setValue")
     public String setValue(){
-        redisTemplate.opsForValue().set("dafeige","my firstRedis");
+        redisTemplate.opsForValue().set("dafeig1","my firstRedis1");
         return "OK";
     }
 }
