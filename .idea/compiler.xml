@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-annotions" />
-        <module name="spring-boot-kafka" />
-        <module name="spring-boot-mysql" />
+        <module name="spring-boot-kafka-consumer" />
+        <module name="spring-boot-kafka-producer" />
+        <module name="spring-boot-mybatis" />
         <module name="spring-boot-rabbitmq" />
         <module name="spring-boot-redis" />
         <module name="spring-boot-rocketmq" />
@@ -18,6 +19,7 @@
     <bytecodeTargetLevel>
       <module name="spring-boot-druid (1)" target="1.8" />
       <module name="spring-boot-druid (2)" target="1.8" />
+      <module name="spring-boot-mysql" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

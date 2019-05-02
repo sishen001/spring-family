@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" line="10" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="86092801-c9a7-4308-8962-9adf1602b730" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/consumer/kafkaconsumer/OrderConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/java/org/spring/family/springbootkafkaproducer/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-kafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-kafka/src/main/java/org/spring/family/springbootkafka/SpringBootKafkaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-kafka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-kafka/src/test/java/org/spring/family/springbootkafka/SpringBootKafkaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mysql/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-annotions/target/" />
@@ -15,6 +27,9 @@
     <ignored path="$PROJECT_DIR$/spring-boot-mysql/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-rocketmq/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,35 +51,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="187" />
-          <entry key="properties" value="149" />
-          <entry key="txt" value="20" />
-          <entry key="xml" value="28" />
+          <entry key="dummy" value="5" />
+          <entry key="java" value="893" />
+          <entry key="properties" value="614" />
+          <entry key="txt" value="84" />
+          <entry key="xml" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="187" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Properties" value="149" />
-          <entry key="XML" value="28" />
+          <entry key="JAVA" value="893" />
+          <entry key="PLAIN_TEXT" value="89" />
+          <entry key="Properties" value="614" />
+          <entry key="XML" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="38" />
-          <entry key="pom" value="1" />
-          <entry key="properties" value="7" />
-          <entry key="xml" value="6" />
+          <entry key="class" value="13" />
+          <entry key="java" value="49" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="13" />
+          <entry key="xml" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="38" />
-          <entry key="Properties" value="7" />
-          <entry key="XML" value="7" />
+          <entry key="CLASS" value="13" />
+          <entry key="JAVA" value="49" />
+          <entry key="Properties" value="13" />
+          <entry key="XML" value="20" />
         </counts>
       </usages-collector>
     </session>
@@ -72,19 +88,90 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="20" column="17" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="17" />
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/consumer/kafkaconsumer/OrderConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="76">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/server/maven/repository/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/SpringBootKafkaConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/server/maven/repository/org/springframework/kafka/spring-kafka/2.2.5.RELEASE/spring-kafka-2.2.5.RELEASE.jar!/org/springframework/kafka/annotation/KafkaListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/java/org/spring/family/springbootkafkaproducer/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/server/maven/repository/org/springframework/kafka/spring-kafka/2.2.5.RELEASE/spring-kafka-2.2.5.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="110" column="59" selection-start-line="110" selection-start-column="59" selection-end-line="110" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/server/maven/repository/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -101,9 +188,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>redis</find>
+      <find>spring.datasource.datasource.url</find>
+      <find>ds1</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>spring.datasource</replace>
+      <replace>spring.durid</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -119,6 +210,25 @@
         <option value="$PROJECT_DIR$/spring-boot-redis/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DatasourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DuridConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis/login/orderMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis/order/orderMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/service/TestService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/service/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/dao/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/java/org/spring/family/springbootkafkaproducer/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/consumer/kafkaconsumer/OrderConsumer.java" />
       </list>
     </option>
   </component>
@@ -144,25 +254,15 @@
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="x" value="1373" />
+    <option name="y" value="85" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,7 +281,127 @@
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootkafkaconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootkafkaconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="kafkaconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootkafkaproducer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootkafkaproducer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-kafka-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,8 +419,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556760555300" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556782886310" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../message" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -209,6 +430,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\all-study-code\spring-family\spring-boot-mybatis\src\main\resources\mybatis\order" />
+      <recent name="G:\all-study-code\spring-family\spring-boot-mybatis\src\main\resources\mybatis" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\all-study-code\spring-family\spring-boot-redis\src\main\java\org\spring\family\springbootredis" />
       <recent name="G:\all-study-code\spring-family\spring-annotions\src\main\java" />
@@ -226,7 +451,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootRedisApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBootKafkaProducerApplication">
     <configuration name="SpringBootDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-druid (2)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springbootdruid.SpringBootDruidApplication" />
@@ -237,6 +462,27 @@
     <configuration name="SpringBootKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-kafka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springbootkafka.SpringBootKafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootKafkaConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-kafka-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springbootkafkaconsumer.SpringBootKafkaConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootKafkaProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-kafka-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springbootkafkaproducer.SpringBootKafkaProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springbootmybatis.SpringBootMybatisApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -287,6 +533,9 @@
       <item itemvalue="Spring Boot.SpringBootRocketmqApplication" />
       <item itemvalue="Spring Boot.SpringCloudEurekaApplication" />
       <item itemvalue="Spring Boot.SpringBootRedisApplication" />
+      <item itemvalue="Spring Boot.SpringBootMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringBootKafkaProducerApplication" />
+      <item itemvalue="Spring Boot.SpringBootKafkaConsumerApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -300,7 +549,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556723980005</updated>
       <workItem from="1556723983673" duration="3225000" />
-      <workItem from="1556756770852" duration="3744000" />
+      <workItem from="1556756770852" duration="12782000" />
     </task>
     <task id="LOCAL-00001" summary="整合项目">
       <created>1556727110307</created>
@@ -316,11 +565,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556760391666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="指定编译class 的jdk配置">
+      <created>1556760584382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556760584382</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mybatis durid 和普通数据整合完成">
+      <created>1556763442364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556763442364</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mybatis durid 和普通数据整合完成  test 完成">
+      <created>1556778179243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556778179243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6969000" />
+    <option name="totallyTimeSpent" value="16007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
@@ -332,7 +602,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3148415" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3429395" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -343,14 +613,14 @@
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.18282549" />
-      <window_info anchor="bottom" id="Debug" order="10" visible="true" weight="0.29639888" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.38781163" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.31440443" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="2" weight="0.17723343" />
+      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.10518732" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -403,7 +673,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="整合项目" />
     <MESSAGE value="整合项目 springbootredis" />
-    <option name="LAST_COMMIT_MESSAGE" value="整合项目 springbootredis" />
+    <MESSAGE value="指定编译class 的jdk配置" />
+    <MESSAGE value="mybatis durid 和普通数据整合完成" />
+    <MESSAGE value="mybatis durid 和普通数据整合完成  test 完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis durid 和普通数据整合完成  test 完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -439,24 +712,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-annotions/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-annotions/src/main/java/anno/aa/FruitName.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-annotions/src/main/java/anno/entity/Apple.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-annotions/src/main/java/anno/aa/FruitColor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-annotions/src/main/java/anno/aa/Table.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-annotions/src/main/java/anno/aa/FruitProvider.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-annotions/src/main/java/anno/test/TestAnno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -618,17 +873,242 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="17" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mysql/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/com/alibaba/druid/1.0.29/druid-1.0.29.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/SpringBootMybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DuridConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#1099#1131#1" expanded="true" />
+            <element signature="e#1168#1205#1" expanded="true" />
+            <element signature="e#1243#1280#1" expanded="true" />
+            <element signature="e#1322#1366#1" expanded="true" />
+            <element signature="e#1416#1454#1" expanded="true" />
+            <element signature="e#1498#1534#1" expanded="true" />
+            <element signature="e#1576#1616#1" expanded="true" />
+            <element signature="e#1662#1698#1" expanded="true" />
+            <element signature="e#1737#1795#1" expanded="true" />
+            <element signature="e#1856#1911#1" expanded="true" />
+            <element signature="e#1969#2011#1" expanded="true" />
+            <element signature="e#2059#2101#1" expanded="true" />
+            <element signature="e#2148#2189#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis/order/orderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/dao/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/service/TestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="617" selection-start-line="617" selection-end-line="617" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="58" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/server/maven/repository/org/springframework/kafka/spring-kafka/2.2.5.RELEASE/spring-kafka-2.2.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="62" selection-start-line="5" selection-start-column="8" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/org/springframework/kafka/spring-kafka/2.2.5.RELEASE/spring-kafka-2.2.5.RELEASE.jar!/org/springframework/kafka/annotation/KafkaListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/org/springframework/kafka/spring-kafka/2.2.5.RELEASE/spring-kafka-2.2.5.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="110" column="59" selection-start-line="110" selection-start-column="59" selection-end-line="110" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/java/org/spring/family/springbootkafkaproducer/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/SpringBootKafkaConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/consumer/kafkaconsumer/OrderConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -684,7 +1164,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-boot-redis</last-edited>
+          <last-edited>spring-boot-rabbitmq</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
