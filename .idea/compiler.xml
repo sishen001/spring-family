@@ -19,14 +19,17 @@
         <module name="spring-cloud-eureka-server" />
         <module name="spring-cloud-eureka-server-9001" />
         <module name="spring-cloud-eureka-server-9002" />
+        <module name="spring-cloud-order-provider-8005" />
+        <module name="spring-cloud-order-provider-8006" />
         <module name="spring-cloud-ribbon-consumer-8088" />
-        <module name="spring-cloud-ribbon-consumer-8089" />
+        <module name="spring-cloud-ribbon-server-9000" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-druid (1)" target="1.8" />
       <module name="spring-boot-druid (2)" target="1.8" />
       <module name="spring-boot-mysql" target="1.8" />
+      <module name="spring-cloud-ribbon-consumer-8089" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
