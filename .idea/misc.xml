@@ -33,6 +33,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/pom.xml" />
       </list>
     </option>
     <option name="ignoredPathMasks">

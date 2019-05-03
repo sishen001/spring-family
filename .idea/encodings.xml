@@ -21,6 +21,8 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hytris" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon" charset="UTF-8" />

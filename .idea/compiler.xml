@@ -23,6 +23,7 @@
         <module name="spring-cloud-feign-consumer-8080" />
         <module name="spring-cloud-feign-provider-8005-true" />
         <module name="spring-cloud-feign-provider-8006" />
+        <module name="spring-cloud-hystris-dashboard-9001" />
         <module name="spring-cloud-hystrix-command" />
         <module name="spring-cloud-hystrix-consumer-8007" />
         <module name="spring-cloud-order-provider-8005" />

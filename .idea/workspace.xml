@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86092801-c9a7-4308-8962-9adf1602b730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/java/org/spring/family/springcloudhystrixcommand/command/TulingHystrixCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/java/org/spring/family/springcloudhystrixcommand/config/MainConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/java/org/spring/family/springcloudhystrixcommand/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsProviderCustomCfg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/fallback/OrderFallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/java/org/spring/family/springcloudhystrisdashboard9001/SpringCloudHystrisDashboard9001Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/test/java/org/spring/family/springcloudhystrisdashboard9001/SpringCloudHystrisDashboard9001ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/HystrixStreamConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsConsumerCustomCfg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/SpringCloudFeignApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/SpringCloudFeignApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-cloud-feign-provider-8005-true/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-cloud-feign-provider-8005-true/mybatis/order/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsProviderCustomCfg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-annotions/target/" />
@@ -52,6 +62,7 @@
     <ignored path="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,37 +87,37 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="14" />
-          <entry key="java" value="3340" />
-          <entry key="properties" value="1368" />
-          <entry key="txt" value="291" />
-          <entry key="xml" value="237" />
+          <entry key="dummy" value="22" />
+          <entry key="java" value="3702" />
+          <entry key="properties" value="1524" />
+          <entry key="txt" value="311" />
+          <entry key="xml" value="244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3340" />
-          <entry key="PLAIN_TEXT" value="305" />
-          <entry key="Properties" value="1368" />
+          <entry key="JAVA" value="3702" />
+          <entry key="PLAIN_TEXT" value="333" />
+          <entry key="Properties" value="1524" />
           <entry key="SQL" value="4" />
-          <entry key="XML" value="233" />
+          <entry key="XML" value="240" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="19" />
-          <entry key="java" value="151" />
-          <entry key="pom" value="2" />
-          <entry key="properties" value="57" />
-          <entry key="xml" value="53" />
+          <entry key="java" value="156" />
+          <entry key="pom" value="7" />
+          <entry key="properties" value="61" />
+          <entry key="xml" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="19" />
-          <entry key="JAVA" value="151" />
-          <entry key="Properties" value="57" />
-          <entry key="XML" value="55" />
+          <entry key="JAVA" value="156" />
+          <entry key="Properties" value="61" />
+          <entry key="XML" value="66" />
         </counts>
       </usages-collector>
     </session>
@@ -114,19 +125,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
+            <state relative-caret-position="365">
               <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="26" column="21" selection-start-line="23" selection-start-column="9" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="27">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/java/org/spring/family/springcloudhystrisdashboard9001/SpringCloudHystrisDashboard9001Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -134,75 +163,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="34" column="76" lean-forward="true" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
+            <state relative-caret-position="270">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/HystrixStreamConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/controller/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="149">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsProviderCustomCfg.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="284">
+              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/fallback/OrderFallBack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
+        <entry file="file://D:/server/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.1.1.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.1.1.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -226,6 +216,8 @@
       <find>SqlSessionFactory</find>
       <find>getOrderInfoPost</find>
       <find>commandGroupKey</find>
+      <find>spring-cloud-dependencies</find>
+      <find>processor</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -239,12 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/SpringCloudRibbonProvider8005Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/controller/TestController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceConfig.java" />
@@ -283,13 +269,19 @@
         <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/java/org/spring/family/springcloudhystrixcommand/config/MainConfig.java" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/SpringCloudFeignApiApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java" />
         <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/fallback/OrderFallBack.java" />
         <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsProviderCustomCfg.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsConsumerCustomCfg.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/java/org/spring/family/springcloudhystrisdashboard9001/SpringCloudHystrisDashboard9001Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/HystrixStreamConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java" />
       </list>
     </option>
   </component>
@@ -338,181 +330,6 @@
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudfeignapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudfeignapi" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-command" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-command" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-command" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudhystrixconsumer8007" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudhystrixconsumer8007" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudhystrixconsumer8007" type="462c0819:PsiDirectoryNode" />
-              <item name="fallback" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hytris" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-hystrix-consumer-8007" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -530,7 +347,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556890895534" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556900460777" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -569,7 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudHystrixConsumer8007Application">
+  <component name="RunManager" selected="Spring Boot.SpringCloudHystrisDashboard9001Application">
     <configuration name="TulingHystrixCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.spring.family.springcloudhystrixcommand.command.TulingHystrixCommand" />
       <module name="spring-cloud-hystrix-command" />
@@ -733,6 +550,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringCloudHystrisDashboard9001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-hystris-dashboard-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudhystrisdashboard9001.SpringCloudHystrisDashboard9001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringCloudHystrixCommandApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-cloud-hystrix-command" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudhystrixcommand.SpringCloudHystrixCommandApplication" />
@@ -828,6 +652,7 @@
       <item itemvalue="Spring Boot.SpringCloudHystrixCommandApplication" />
       <item itemvalue="Spring Boot.SpringCloudHystrixConsumer8007Application" />
       <item itemvalue="Application.TulingHystrixCommand" />
+      <item itemvalue="Spring Boot.SpringCloudHystrisDashboard9001Application" />
     </list>
     <recent_temporary>
       <list>
@@ -849,7 +674,7 @@
       <workItem from="1556756770852" duration="27206000" />
       <workItem from="1556844149888" duration="3187000" />
       <workItem from="1556848459145" duration="8268000" />
-      <workItem from="1556878073970" duration="9875000" />
+      <workItem from="1556878073970" duration="18777000" />
     </task>
     <task id="LOCAL-00001" summary="整合项目">
       <created>1556727110307</created>
@@ -935,15 +760,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556855830254</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="完成spring cloud hystrix 测试使用">
+      <created>1556890965271</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556890965271</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51761000" />
+    <option name="totallyTimeSpent" value="60663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -961,8 +792,8 @@
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.32825485" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3767313" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32825485" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3504155" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.30193907" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -1032,7 +863,8 @@
     <MESSAGE value="增加springbootbase工程，主要是springboot的一些基本操作" />
     <MESSAGE value="完成spring cloud ribbon的负责均衡测试" />
     <MESSAGE value="完成spring cloud feign 环境搭建和测试调用" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成spring cloud feign 环境搭建和测试调用" />
+    <MESSAGE value="完成spring cloud hystrix 测试使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成spring cloud hystrix 测试使用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1068,66 +900,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/resources/mybatis/order/OrderMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/SpringCloudFeignProvider8005Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DuridConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="18" column="90" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="90" />
-          <folding>
-            <element signature="e#1099#1131#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/config/DruidDataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1086">
@@ -1247,13 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/TimeoutException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1365,9 +1130,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsProviderCustomCfg.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/java/org/spring/family/springcloudhystrixcommand/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -1378,13 +1140,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1392,38 +1147,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/fallback/OrderFallBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="34" column="76" lean-forward="true" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -1437,13 +1164,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/fallback/OrderFallBack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="142">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/MsConsumerCustomCfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/server/maven/repository/org/springframework/cloud/spring-cloud-netflix/2.1.1.RELEASE/spring-cloud-netflix-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/server/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix/2.1.1.RELEASE/spring-cloud-starter-netflix-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/server/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/api/OrderApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/server/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.1.1.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystris-dashboard-9001/src/main/java/org/spring/family/springcloudhystrisdashboard9001/SpringCloudHystrisDashboard9001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/config/HystrixStreamConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/src/main/java/org/spring/family/springcloudhystrixconsumer8007/SpringCloudHystrixConsumer8007Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
