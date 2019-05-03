@@ -15,7 +15,13 @@ public class TestController {
     private OrderService orderService;
 
     @RequestMapping("/getOrderInfo/{userId}")
-    public List<Map<String,Object>> getOrderInfo(@PathVariable("userId") String userId){
+    public List<Map<String,Object>> getOrderInfo(@PathVariable("userId") String userId) throws  Exception{
+        if("2018000000001".equals(userId)){
+            throw new RuntimeException("异常");
+        }
+        if("2018001000000".equals(userId)){
+            Thread.sleep(5000);
+        }
         return orderService.getOrderInfo(userId);
     }
 
@@ -23,4 +29,5 @@ public class TestController {
     public List<Map<String,Object>> getOrderInfoPost(@RequestParam("userId") String userId){
         return orderService.getOrderInfo(userId);
     }
+
 }

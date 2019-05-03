@@ -29,6 +29,10 @@
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-command/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hytris/spring-cloud-hystrix-consumer-8007/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/pom.xml" />
       </list>
     </option>
     <option name="ignoredPathMasks">
