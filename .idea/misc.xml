@@ -24,12 +24,18 @@
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-server-9000/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/spring-boot-mysql/pom.xml" />
-      </set>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="lombok" />
+        <option value="plugin" />
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

@@ -5,26 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86092801-c9a7-4308-8962-9adf1602b730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/config/MsProviderCustomCfg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/dao/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/resources/mybatis/order/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/config/DruidDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/config/DruidDataSourceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/dao/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/resources/mybatis/order/OrderMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/src/main/java/org/spring/family/springcloudribbonconsumer8089/SpringCloudRibbonConsumer8089Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8089/src/test/java/org/spring/family/springcloudribbonconsumer8089/SpringCloudRibbonConsumer8089ApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-annotions/target/" />
@@ -50,6 +51,11 @@
     <ignored path="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-server-9000/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,44 +69,47 @@
     <session id="2051535584">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
-          <entry key="java" value="1783" />
-          <entry key="properties" value="1235" />
-          <entry key="txt" value="225" />
-          <entry key="xml" value="131" />
+          <entry key="dummy" value="14" />
+          <entry key="java" value="2606" />
+          <entry key="properties" value="1340" />
+          <entry key="txt" value="257" />
+          <entry key="xml" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1783" />
-          <entry key="PLAIN_TEXT" value="230" />
-          <entry key="Properties" value="1235" />
-          <entry key="XML" value="131" />
+          <entry key="JAVA" value="2606" />
+          <entry key="PLAIN_TEXT" value="271" />
+          <entry key="Properties" value="1340" />
+          <entry key="SQL" value="4" />
+          <entry key="XML" value="203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="15" />
-          <entry key="java" value="83" />
+          <entry key="java" value="130" />
           <entry key="pom" value="2" />
-          <entry key="properties" value="37" />
-          <entry key="xml" value="31" />
+          <entry key="properties" value="52" />
+          <entry key="xml" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="15" />
-          <entry key="JAVA" value="83" />
-          <entry key="Properties" value="37" />
-          <entry key="XML" value="33" />
+          <entry key="JAVA" value="130" />
+          <entry key="Properties" value="52" />
+          <entry key="XML" value="49" />
         </counts>
       </usages-collector>
     </session>
@@ -108,93 +117,113 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="118">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/SpringCloudOrderProvider8006Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/SpringCloudRibbonProvider8005Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/controller/TestController.java">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/controller/TestController.java">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/SpringCloudFeignConsumer8080Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="162">
+              <caret line="9" column="27" selection-start-line="9" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/controller/TestController.java">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="209">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/server/maven/repository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="51" selection-start-column="8" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/config/MsProviderCustomCfg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/SpringCloudRibbonConsumer8088Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" selection-start-line="7" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/server/maven/repository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="439" column="29" selection-start-line="439" selection-start-column="15" selection-end-line="439" selection-end-column="29" />
+            <state relative-caret-position="216">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -213,6 +242,12 @@
       <find>redis</find>
       <find>spring.datasource.datasource.url</find>
       <find>ds1</find>
+      <find>my</find>
+      <find>mybatis</find>
+      <find>OrderMapper</find>
+      <find>MAPPER_LOCATION</find>
+      <find>SqlSessionFactory</find>
+      <find>getOrderInfoPost</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -226,37 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DatasourceConfig.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DuridConfig.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis/login/orderMapper.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis/order/orderMapper.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/service/TestService.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/service/TestServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/dao/OrderMapper.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/java/org/spring/family/springbootkafkaproducer/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/consumer/kafkaconsumer/OrderConsumer.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/java/org/spring/family/springcloudeurekaserver/SpringCloudEurekaServerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/src/main/java/org/spring/family/springcloudeurekaconsumer/SpringCloudEurekaConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9001/src/main/java/org/spring/family/springcloudeurekaserver9001/SpringCloudEurekaServer9001Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/src/main/java/org/spring/family/springcloudeurekaserver9002/SpringCloudEurekaServer9002Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/src/main/java/org/spring/family/springcloudeurekaconsumerorder/SpringCloudEurekaConsumerOrderApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/java/org/spring/family/springcloudeurekaserver/config/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/SpringCloudRibbonConsumer8088Application.java" />
@@ -277,6 +281,37 @@
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/controller/TestController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceProperties.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/java/org/spring/family/springcloudfeignprovider8005/dao/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/resources/mybatis/order/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/SpringCloudFeignProvider8005Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/config/DruidDataSourceProperties.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/SpringCloudFeignProvider8006Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/service/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/resources/mybatis/order/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/api/OrderApi.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/SpringCloudFeignConsumer8080Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/config/MsProvider8007CustomCfg.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/config/MsProviderCustomCfg.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -302,13 +337,23 @@
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-feign-provider-8005" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-feign-provider-8005" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
+    <option name="x" value="1303" />
+    <option name="y" value="105" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -318,7 +363,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,34 +373,69 @@
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -364,48 +443,156 @@
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudribbonconsumer8088" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignconsumer8080" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudribbonconsumer8088" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignconsumer8080" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudribbonconsumer8088" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignconsumer8080" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-consumer-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8005-true" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8005-true" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8005-true" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8005-true" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8005-true" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignprovider8005" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8005-true" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignprovider8005" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8006" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8006" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8006" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8006" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8006" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignprovider8006" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-family" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-provider-8006" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudfeignprovider8006" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-family" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-family" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-ribbon-consumer-8088" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
@@ -418,7 +605,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556810027779" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556855739859" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Springboot-study/spring-model" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -426,20 +613,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\all-study-code\spring-family\spring-boot-mybatis\src\main\resources\mybatis\order" />
-      <recent name="G:\all-study-code\spring-family\spring-boot-mybatis\src\main\resources\mybatis" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\all-study-code\spring-family\spring-cloud-feign\spring-cloud-feign-provider-8006\src\main\resources" />
+      <recent name="G:\all-study-code\spring-family\spring-cloud-feign\spring-cloud-feign-provider-8006\src\main\java\org\spring\family\springcloudfeignprovider8006" />
+      <recent name="G:\all-study-code\spring-family\spring-cloud-feign\spring-cloud-feign-provider-8005\src\main\resources\mybatis\order" />
+      <recent name="G:\all-study-code\spring-family\spring-boot-base\src\main\java\org\spring\family\springbootbase" />
+      <recent name="G:\all-study-code\spring-family\spring-boot-redis\src\main\java\org\spring\family\springbootredis" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.spring.family.springcloudorderprovider8006.controller" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\all-study-code\spring-family\spring-boot-base\src\main\java\org\spring\family\springbootbase" />
-      <recent name="G:\all-study-code\spring-family\spring-boot-redis\src\main\java\org\spring\family\springbootredis" />
-      <recent name="G:\all-study-code\spring-family\spring-annotions\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\all-study-code\spring-family\spring-boot-mybatis\src\main\resources\mybatis\order" />
+      <recent name="G:\all-study-code\spring-family\spring-boot-mybatis\src\main\resources\mybatis" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -454,7 +643,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudRibbonConsumer8088Application">
+  <component name="RunManager" selected="Spring Boot.SpringCloudFeignConsumer8080Application">
     <configuration name="SpringBootBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-base" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springbootbase.SpringBootBaseApplication" />
@@ -570,6 +759,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringCloudFeignApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="order.spring.family.springcloudfeignapi.SpringCloudFeignApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudfeign.SpringCloudFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudFeignConsumer8080Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign-consumer-8080" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudfeignconsumer8080.SpringCloudFeignConsumer8080Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudFeignProvider8005Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign-provider-8005-true" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudfeignprovider8005.SpringCloudFeignProvider8005Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudFeignProvider8006Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign-provider-8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudfeignprovider8006.SpringCloudFeignProvider8006Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringCloudOrderProvider8006Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-cloud-order-provider-8006" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.family.springcloudorderprovider8006.SpringCloudOrderProvider8006Application" />
@@ -635,6 +859,11 @@
       <item itemvalue="Spring Boot.SpringCloudRibbonServer9000Application" />
       <item itemvalue="Spring Boot.SpringCloudRibbonProvider8005Application" />
       <item itemvalue="Spring Boot.SpringCloudOrderProvider8006Application" />
+      <item itemvalue="Spring Boot.SpringCloudFeignApplication" />
+      <item itemvalue="Spring Boot.SpringCloudFeignProvider8005Application" />
+      <item itemvalue="Spring Boot.SpringCloudFeignProvider8006Application" />
+      <item itemvalue="Spring Boot.SpringCloudFeignConsumer8080Application" />
+      <item itemvalue="Spring Boot.SpringCloudFeignApiApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -648,7 +877,9 @@
       <option name="presentableId" value="Default" />
       <updated>1556723980005</updated>
       <workItem from="1556723983673" duration="3225000" />
-      <workItem from="1556756770852" duration="26490000" />
+      <workItem from="1556756770852" duration="27206000" />
+      <workItem from="1556844149888" duration="3187000" />
+      <workItem from="1556848459145" duration="7228000" />
     </task>
     <task id="LOCAL-00001" summary="整合项目">
       <created>1556727110307</created>
@@ -720,11 +951,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556806102375</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="完成spring cloud ribbon的负责均衡测试">
+      <created>1556810121687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556810121687</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29715000" />
+    <option name="totallyTimeSpent" value="40846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
@@ -735,26 +973,26 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25792506" />
+      <window_info id="Web" order="5" sideWeight="0.50206614" side_tool="true" weight="0.2651297" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4979339" visible="true" weight="0.2651297" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32963988" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
-      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32963988" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.32963988" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.34210527" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.31440443" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.32825485" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.45429364" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.71883655" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.10518732" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.1592219" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -770,25 +1008,25 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3148415" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2651297" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32963988" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.27700832" />
-      <window_info active="true" anchor="bottom" id="Debug" order="10" visible="true" weight="0.30609417" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.17451523" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.31440443" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.17723343" />
+      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.1592219" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -815,7 +1053,8 @@
     <MESSAGE value="完成springcloud eureka集群测试完成" />
     <MESSAGE value="eureka集群 增加了认证 分别在consumer 和server端，已经注释" />
     <MESSAGE value="增加springbootbase工程，主要是springboot的一些基本操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加springbootbase工程，主要是springboot的一些基本操作" />
+    <MESSAGE value="完成spring cloud ribbon的负责均衡测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成spring cloud ribbon的负责均衡测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -851,250 +1090,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/server/maven/repository/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/server/maven/repository/org/springframework/kafka/spring-kafka/2.2.5.RELEASE/spring-kafka-2.2.5.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="110" column="59" selection-start-line="110" selection-start-column="59" selection-end-line="110" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-producer/src/main/java/org/spring/family/springbootkafkaproducer/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/SpringBootKafkaConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka-consumer/src/main/java/org/spring/family/springbootkafkaconsumer/consumer/kafkaconsumer/OrderConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/java/org/spring/family/springcloudeurekaserver/SpringCloudEurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9001/src/main/java/org/spring/family/springcloudeurekaserver9001/SpringCloudEurekaServer9001Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/src/main/java/org/spring/family/springcloudeurekaserver9002/SpringCloudEurekaServer9002Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9001/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-9002/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer-order/src/main/java/org/spring/family/springcloudeurekaconsumerorder/SpringCloudEurekaConsumerOrderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/java/org/spring/family/springcloudeurekaserver/config/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/src/main/java/org/spring/family/springcloudeurekaconsumer/SpringCloudEurekaConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/servlet/TestServlet.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/filter/TestFilter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/SpringBootBaseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/intercepter/TestIntercepter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/configer/TestConfiger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/src/main/java/org/spring/family/springbootbase/entity/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="28" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-server-9000/src/main/java/org/spring/family/springcloudribbonserver9000/SpringCloudRibbonServer9000Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-server-9000/src/main/java/org/spring/family/springcloudribbonserver9000/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-server-9000/src/main/java/org/spring/family/springcloudribbonserver9000/controller/TestController.java" />
     <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-server-9000/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1102,43 +1098,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/SpringCloudRibbonProvider8005Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/SpringCloudOrderProvider8006Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,31 +1119,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/server/maven/repository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="439" column="29" selection-start-line="439" selection-start-column="15" selection-end-line="439" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/SpringCloudRibbonConsumer8088Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1191,23 +1133,350 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/SpringCloudOrderProvider8006Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/SpringCloudRibbonProvider8005Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8005/src/main/java/org/spring/family/springcloudribbonprovider8005/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-order-provider-8006/src/main/java/org/spring/family/springcloudorderprovider8006/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="405">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/SpringCloudRibbonConsumer8088Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10098">
+          <caret line="439" column="29" selection-start-line="439" selection-start-column="15" selection-end-line="439" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer-8088/src/main/java/org/spring/family/springcloudribbonconsumer8088/config/RibbonConfig.java">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="81">
+          <caret line="3" column="12" lean-forward="true" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis/order/orderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/service/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/resources/mybatis/order/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/SpringCloudFeignProvider8005Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/dao/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/org/spring/family/springbootmybatis/config/DuridConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="18" column="90" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="90" />
+          <folding>
+            <element signature="e#1099#1131#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/config/DruidDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="40" column="22" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/config/DruidDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1086">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/config/DruidDataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/SpringCloudFeignProvider8006Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/service/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/dao/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/resources/mybatis/order/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/api/OrderApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/SpringCloudFeignConsumer8080Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/maven/repository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8005-true/src/main/java/org/spring/family/springcloudfeignprovider8005/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-provider-8006/src/main/java/org/spring/family/springcloudfeignprovider8006/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-api/src/main/java/order/spring/family/springcloudfeignapi/api/OrderApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="8" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/java/org/spring/family/springcloudfeignconsumer8080/config/MsProviderCustomCfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer-8080/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>

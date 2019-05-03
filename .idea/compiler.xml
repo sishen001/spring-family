@@ -19,10 +19,19 @@
         <module name="spring-cloud-eureka-server" />
         <module name="spring-cloud-eureka-server-9001" />
         <module name="spring-cloud-eureka-server-9002" />
+        <module name="spring-cloud-feign-api" />
+        <module name="spring-cloud-feign-consumer-8080" />
+        <module name="spring-cloud-feign-provider-8006" />
         <module name="spring-cloud-order-provider-8005" />
         <module name="spring-cloud-order-provider-8006" />
         <module name="spring-cloud-ribbon-consumer-8088" />
         <module name="spring-cloud-ribbon-server-9000" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-feign-provider-8005" enabled="true">
+        <sourceOutputDir name="../spring-cloud-feign-provider-8005/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-feign-provider-8005/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-feign-provider-8005-true" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
