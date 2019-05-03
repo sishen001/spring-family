@@ -1,0 +1,18 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: ms-hystrix-turbine
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9000/eureka/
+  instance:
+    prefer-ip-address: true
+
+turbine:
+  aggregator:
+    clusterConfig: ms-consumer-feign-user
+  appConfig: ms-consumer-feign-user
+  cluster-name-expression: "'default'"
+
