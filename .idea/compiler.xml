@@ -26,10 +26,12 @@
         <module name="spring-cloud-hystris-dashboard-9001" />
         <module name="spring-cloud-hystrix-command" />
         <module name="spring-cloud-hystrix-consumer-8007" />
+        <module name="spring-cloud-hystrix-turbine-9002" />
         <module name="spring-cloud-order-provider-8005" />
         <module name="spring-cloud-order-provider-8006" />
         <module name="spring-cloud-ribbon-consumer-8088" />
         <module name="spring-cloud-ribbon-server-9000" />
+        <module name="spring-cloud-zuul-9001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
